@@ -1,5 +1,0 @@
-﻿  Source.cpp
-A:\GitHub\Lab3\lab3\lab3\Source.cpp(43): warning C4715:  f: значение возвращается не при всех путях выполнения
-A:\GitHub\Lab3\lab3\lab3\Source.cpp(36): warning C4715:  l5: значение возвращается не при всех путях выполнения
-A:\GitHub\Lab3\lab3\lab3\Source.cpp(71): warning C4715:  l19: значение возвращается не при всех путях выполнения
-  lab3.vcxproj -> A:\GitHub\Lab3\lab3\Debug\lab3.exe
